@@ -100,7 +100,7 @@ I enjoy solving real-world problems through technology, and I'm currently **Chai
 
 - 🥉 Ranked **3rd among GIKI teams** in the ICPC onsite round in Pakistan
 - 💻 Solved **100+ problems** on Codeforces
-- 📈 Consistently active on LeetCode, solving medium-to-hard algorithmic problems
+
 
 </div>
 
