@@ -18,7 +18,6 @@ Building intelligent systems that perceive, reason, and act in the real world.
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Moeed5474)
 [![Codeforces](https://img.shields.io/badge/Codeforces-445F9D?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Abdulmoeed)
 
-<img src="https://komarev.com/ghpvc/?username=abdulmoeedsiddiqi&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 
 </div>
 
