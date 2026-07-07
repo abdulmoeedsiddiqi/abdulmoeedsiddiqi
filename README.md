@@ -76,17 +76,7 @@ I enjoy solving real-world problems through technology, and I'm currently **Chai
 
 📁 *Explore more on my [portfolio site](https://abdul-moeed-portfolio-website-updat.vercel.app/#projects-sec) or [GitHub](https://github.com/abdulmoeedsiddiqi).*
 
----
 
-## 📚 Research & Publications
-
-- **Adaptive Confidence-Aware Knowledge Fusion Between RAG and PEFT for Trustworthy Domain-Specialized Foundation Models** — *In Preparation*
-- **Network-Aware Collaborative Perception for Distributed Multi-Camera Warehouse Monitoring** — *Under Review*
-- **Uncertainty-Aware Vehicle Routing Using Deep Visual Road-Condition Assessment** — *Under Review*
-
-*(Internship output: UE Germany × GIKI)*
-
----
 
 ## 💡 Skills & Technologies
 
