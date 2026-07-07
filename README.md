@@ -112,17 +112,6 @@ I enjoy solving real-world problems through technology, and I'm currently **Chai
 - 💻 Solved **100+ problems** on Codeforces
 - 📈 Consistently active on LeetCode, solving medium-to-hard algorithmic problems
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=abdulmoeedsiddiqi&show_icons=true&theme=tokyonight&count_private=true&hide_border=true"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulmoeedsiddiqi&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<img src="https://streak-stats.demolab.com/?user=abdulmoeedsiddiqi&theme=tokyonight&hide_border=true" />
-
 </div>
 
 ---
